@@ -1,7 +1,7 @@
 import os, subprocess, shlex
 
-#BASE_DIRECTORY = "/mnt/multimedia/Other/~Miscellaneous/VR/09/Multipart/"
-BASE_DIRECTORY = "/home/rjohnson/TestMerge/"
+BASE_DIRECTORY = "/mnt/multimedia/Other/~Miscellaneous/VR/09/Multipart/"
+#BASE_DIRECTORY = "/home/rjohnson/TestMerge/"
 TARGET_DIRECTORY = f"{BASE_DIRECTORY}Output/"
 TEMP_DIRECTORY = "./~Temp/"
 BASE_EXTENSION = ".mp4"
